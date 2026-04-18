@@ -68,6 +68,6 @@ Future improvements:
 
 This is an open-source project. Contributions are welcome!
 
-## 📜 License
+##  License
 
 MIT License
