@@ -1,15 +1,15 @@
-# 🌱 PlantGen AI
+#  PlantGen AI
 
 PlantGen AI is an open-source tool that helps generate plant product content using AI.
 
-## 🚀 Features
+## Features
 
 - Generate plant descriptions
 - Create care guides (watering, sunlight, soil)
 - Useful for plant shops and eCommerce websites
 - Saves time for content creation
 
-## 🧠 How it works
+##  How it works
 
 1. Enter a plant name
 2. AI generates:
@@ -17,7 +17,7 @@ PlantGen AI is an open-source tool that helps generate plant product content usi
    - Care instructions
 3. Output can be added directly to a website
 
-## 💡 Example
+##  Example
 
 Input:
 Snake Plant
@@ -29,18 +29,18 @@ Output:
   - Light: Indirect sunlight
   - Soil: Well-draining soil
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 - Python
 - AI APIs (Claude / OpenAI - optional)
 
-## 🌍 Use Case
+##  Use Case
 
 - Plant nurseries
 - eCommerce websites
 - Gardening blogs
 
-## 🤝 Contributing
+##  Contributing
 
 This is an open-source project. Contributions are welcome!
 
