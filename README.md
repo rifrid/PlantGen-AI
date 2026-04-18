@@ -57,6 +57,12 @@ Future improvements:
 - Real-time AI-generated plant descriptions  
 - API integration with Claude  
 - Web interface improvements
+
+##  Upcoming Features
+
+- Integration with Claude API  
+- Better UI for plant generation  
+- Export to eCommerce platforms  
    
 ##  Contributing
 
